@@ -1,3 +1,3 @@
 # HangMan
 
-I created a hangman game using JavaScript and HTM. I did this following a Zenva course 
+I created a hangman game using JavaScript and HTML. I did this following an example from a course i was completing.
